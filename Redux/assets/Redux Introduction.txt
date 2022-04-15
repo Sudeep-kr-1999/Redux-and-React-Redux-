@@ -1,0 +1,34 @@
+Redux introduction:----------------------
+
+----> "Redux" is predictable state container for javascript apps
+----> If we want to Manage the state of our application in a predictable way, Redux can help us.
+----> Redux will help manage state in the React Application 
+----> React-Redux is the official Redux UI binding library for React 
+
+    React-----------------------------------React-Redux-------------------------------Redux
+
+
+Redux is for javascript applications:-------------------------------
+
+----> Redux is not tied with react
+----> can be used with React, Angular, Vue or Even Vanilla javascript
+
+Redux is a state container:----------------------------------------
+
+----> Redux store the state of an application 
+----> Consider the react app- state or component
+----> state of an app is the state represented by all the individual components of the app
+
+
+
+Redux is predectible:-----------------------------------
+---->In redux all the state transistion are explicit and it is possible to keep track of them.
+---->The changes to your application state become predictible
+
+
+
+Summary:------------------------------------
+
+----> Redux is a library used to build user interfaces
+----> Redux is a library for managing state in a predictable way in javascript applications
+----> React-redux is a library that provide bulidings to use React and Redux together in the application 
